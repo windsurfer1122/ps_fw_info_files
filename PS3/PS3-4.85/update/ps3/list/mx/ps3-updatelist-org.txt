@@ -1,0 +1,4 @@
+# MX
+Dest=88;CompatibleSystemSoftwareVersion=4.8500-;
+Dest=88;IncrementalUpdateVersion=000108dd-000108dd;ImageVersion=0001091d;SystemSoftwareVersion=4.8500;CDN=http://dmx01.ps3.update.playstation.net/update/ps3/image/mx/2019_0828_c975768e5d70e105a72656f498cc9be9/PS3PATCH.PUP;CDN_Timeout=30;
+Dest=88;ImageVersion=0001091d;SystemSoftwareVersion=4.8500;CDN=http://dmx01.ps3.update.playstation.net/update/ps3/image/mx/2019_0828_c975768e5d70e105a72656f498cc9be9/PS3UPDAT.PUP;CDN_Timeout=30;

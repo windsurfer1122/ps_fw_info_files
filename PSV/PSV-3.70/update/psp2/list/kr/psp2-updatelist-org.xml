@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<update_data_list>
+<region id="kr">
+<np level0_system_version="01.600.000" level1_system_version="03.700.000" level2_system_version="03.700.000" map="03.700.000" />
+<np_d level0_system_version="01.600.000" level1_system_version="03.700.000" level2_system_version="03.700.000" map="03.700.000" />
+<version system_version="03.700.000" label="3.70">
+<update_data update_type="full">
+<image size="133770752">http://dkr01.psp2.update.playstation.net/update/psp2/image/2019_0109/rel_54227fd645fcb6f177102cbd1f2d1924/PSP2UPDAT.PUP?dest=kr</image>
+</update_data>
+</version>
+<recovery spkg_type="systemdata">
+<image spkg_version="01.000.010" size="56768512">http://dkr01.psp2.update.playstation.net/update/psp2/image/2019_0109/sd_28b537fa2508afc523038030fd3d624f/PSP2UPDAT.PUP?dest=kr</image>
+</recovery>
+<recovery spkg_type="preinst">
+<image spkg_version="01.000.000" size="128788480">http://dkr01.psp2.update.playstation.net/update/psp2/image/2019_0109/pre_af18f72827180188a00ec63196e31c4b/PSP2UPDAT.PUP?dest=kr</image>
+</recovery>
+</region>
+</update_data_list>

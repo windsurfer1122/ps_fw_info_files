@@ -1,0 +1,2 @@
+# CN
+Dest=8D;ImageVersion=00000000;SystemSoftwareVersion=0.00;CDN=http://dcn01.ps3.update.playstation.net/update/ps3/image/cn/nodata;CDN_Timeout=30;

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<update_data_list>
+	<region id="us">
+		<force_update>
+			<system level0_system_ex_version="0" level0_system_version="08.008.000" level1_system_ex_version="0" level1_system_version="08.008.000">
+				<product_requirement id="CUSA15010" level1_system_version="08.010.000" level2_system_version="08.010.000"/>
+				<product_requirement id="CUSA24269" level1_system_version="08.010.000" level2_system_version="08.010.000"/>
+				<product_requirement id="CUSA24267" level1_system_version="08.010.000" level2_system_version="08.010.000"/>
+				<product_requirement id="CUSA24625" level1_system_version="08.010.000" level2_system_version="08.010.000"/>
+				<product_requirement id="CUSA24268" level1_system_version="08.010.000" level2_system_version="08.010.000"/>
+			</system>
+		</force_update>
+		<system_pup ex_version="0" label="8.01" sdk_version="08.010.001" version="08.010.000">
+			<update_data update_type="full">
+				<image size="476825088">http://dus01.ps4.update.playstation.net/update/ps4/image/2020_1113/sys_2ce654f5cc5e5147b7cc756a6a4a93be/PS4UPDATE.PUP?dest=us</image>
+			</update_data>
+		</system_pup>
+		<recovery_pup type="default">
+			<system_pup ex_version="0" label="8.01" sdk_version="08.010.001" version="08.010.000"/>
+			<image size="1056841216">http://dus01.ps4.update.playstation.net/update/ps4/image/2020_1113/rec_25a82d320bea36974b1e7fb189c4c0c5/PS4UPDATE.PUP?dest=us</image>
+		</recovery_pup>
+	</region>
+</update_data_list>

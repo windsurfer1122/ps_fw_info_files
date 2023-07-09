@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<update_data_list>
+	<region id="eu">
+		<force_update>
+			<system level0_system_ex_version="0" level0_system_version="09.600.000" level1_system_ex_version="0" level1_system_version="09.600.000"/>
+		</force_update>
+		<system_pup ex_version="0" label="9.60" sdk_version="09.600.001" version="09.600.000">
+			<update_data update_type="full">
+				<image size="491764224">http://deu01.ps4.update.playstation.net/update/ps4/image/2022_0510/sys_406e1bb5c202bc990d8e5799a20d0995/PS4UPDATE.PUP?dest=eu</image>
+			</update_data>
+		</system_pup>
+		<recovery_pup type="default">
+			<system_pup ex_version="0" label="9.60" sdk_version="09.600.001" version="09.600.000"/>
+			<image size="1071813632">http://deu01.ps4.update.playstation.net/update/ps4/image/2022_0510/rec_4ca1c1dc093563044c620cbf0e7afa2e/PS4UPDATE.PUP?dest=eu</image>
+		</recovery_pup>
+	</region>
+</update_data_list>

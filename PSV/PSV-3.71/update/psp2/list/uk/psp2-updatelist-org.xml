@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<update_data_list>
+<region id="uk">
+<np level0_system_version="01.600.000" level1_system_version="03.710.000" level2_system_version="03.710.000" map="03.710.000" />
+<np_d level0_system_version="01.600.000" level1_system_version="03.710.000" level2_system_version="03.710.000" map="03.710.000" />
+<version system_version="03.710.000" label="3.71">
+<update_data update_type="full">
+<image size="133770752">http://duk01.psp2.update.playstation.net/update/psp2/image/2019_0625/rel_46b79772448291194608b44b17235da2/PSP2UPDAT.PUP?dest=uk</image>
+</update_data>
+</version>
+<recovery spkg_type="systemdata">
+<image spkg_version="01.000.010" size="56768512">http://duk01.psp2.update.playstation.net/update/psp2/image/2019_0625/sd_24f9c20052b3ff8b1b1f62da290c11c1/PSP2UPDAT.PUP?dest=uk</image>
+</recovery>
+<recovery spkg_type="preinst">
+<image spkg_version="01.000.000" size="128788480">http://duk01.psp2.update.playstation.net/update/psp2/image/2019_0625/pre_2efd6510bff08dd33b186c422789b200/PSP2UPDAT.PUP?dest=uk</image>
+</recovery>
+</region>
+</update_data_list>

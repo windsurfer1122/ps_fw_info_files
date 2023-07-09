@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<update_data_list>
+	<region id="sa">
+		<force_update>
+			<system level0_system_ex_version="0" level0_system_version="07.508.000" level1_system_ex_version="0" level1_system_version="07.508.000"/>
+		</force_update>
+		<system_pup ex_version="0" label="7.50" sdk_version="07.508.001" version="07.508.000">
+			<update_data update_type="full">
+				<image size="471334912">http://dsa01.ps4.update.playstation.net/update/ps4/image/2020_0408/sys_93b205eb161d0e1775f1b73a9b98152e/PS4UPDATE.PUP?dest=sa</image>
+			</update_data>
+		</system_pup>
+		<recovery_pup type="default">
+			<system_pup ex_version="0" label="7.50" sdk_version="07.508.001" version="07.508.000"/>
+			<image size="1051351040">http://dsa01.ps4.update.playstation.net/update/ps4/image/2020_0408/rec_b17db990e2f1b629dcc891151bd801aa/PS4UPDATE.PUP?dest=sa</image>
+		</recovery_pup>
+	</region>
+</update_data_list>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<update_data_list>
+<region id="mx">
+<np level0_system_version="01.600.000" level1_system_version="03.680.000" level2_system_version="03.680.000" map="03.680.000" />
+<np_d level0_system_version="01.600.000" level1_system_version="03.680.000" level2_system_version="03.680.000" map="03.680.000" />
+<version system_version="03.680.000" label="3.68">
+<update_data update_type="full">
+<image size="133758464">http://dmx01.psp2.update.playstation.net/update/psp2/image/2018_0319/rel_fdc6f6bb6eed9fd82f7c4bc7414eaf4c/PSP2UPDAT.PUP?dest=mx</image>
+</update_data>
+</version>
+<recovery spkg_type="systemdata">
+<image spkg_version="01.000.010" size="56768512">http://dmx01.psp2.update.playstation.net/update/psp2/image/2018_0319/sd_193df602b7c9f05f9ea9b4ecf9691f60/PSP2UPDAT.PUP?dest=mx</image>
+</recovery>
+<recovery spkg_type="preinst">
+<image spkg_version="01.000.000" size="128788480">http://dmx01.psp2.update.playstation.net/update/psp2/image/2018_0319/pre_53cbd21e8f53e995a2925c4d23be6f65/PSP2UPDAT.PUP?dest=mx</image>
+</recovery>
+</region>
+</update_data_list>

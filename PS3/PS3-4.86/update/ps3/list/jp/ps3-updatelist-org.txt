@@ -1,0 +1,4 @@
+# JP
+Dest=83;CompatibleSystemSoftwareVersion=4.8600-;
+Dest=83;IncrementalUpdateVersion=0001091d-0001091d;ImageVersion=00010938;SystemSoftwareVersion=4.8600;CDN=http://djp01.ps3.update.playstation.net/update/ps3/image/jp/2020_0331_cf9cb4ba53a83ad557501417837c8de9/PS3PATCH.PUP;CDN_Timeout=30;
+Dest=83;ImageVersion=00010938;SystemSoftwareVersion=4.8600;CDN=http://djp01.ps3.update.playstation.net/update/ps3/image/jp/2020_0331_cf9cb4ba53a83ad557501417837c8de9/PS3UPDAT.PUP;CDN_Timeout=30;

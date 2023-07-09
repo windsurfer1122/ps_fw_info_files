@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<update_data_list>
+	<region id="tw">
+		<force_update>
+			<system level0_system_ex_version="0" level0_system_version="07.008.000" level1_system_ex_version="0" level1_system_version="07.008.000"/>
+		</force_update>
+		<system_pup ex_version="0" label="7.00" sdk_version="07.008.001" version="07.008.000">
+			<update_data update_type="full">
+				<image size="469688832">http://dtw01.ps4.update.playstation.net/update/ps4/image/2019_1002/sys_d5469c8ebaf8666ce95e154013e0aef9/PS4UPDATE.PUP?dest=tw</image>
+			</update_data>
+		</system_pup>
+		<recovery_pup type="default">
+			<system_pup ex_version="0" label="7.00" sdk_version="07.008.001" version="07.008.000"/>
+			<image size="1049701376">http://dtw01.ps4.update.playstation.net/update/ps4/image/2019_1002/rec_60f1b903868ba7a8d35ab00f6782addc/PS4UPDATE.PUP?dest=tw</image>
+		</recovery_pup>
+	</region>
+</update_data_list>

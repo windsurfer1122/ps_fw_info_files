@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<update_data_list>
+	<region id="uk">
+		<force_update>
+			<system auto_update_version="00.00" sdk_version="05.50.00.08-00.00.00.0.1" upd_version="05.50.00.00"/>
+		</force_update>
+		<system_pup auto_update_version="00.00" label="22.02-06.50.00.10-00.00.00.0.0" sdk_version="06.50.00.10-00.00.00.0.0" upd_version="06.50.00.00">
+			<update_data update_type="full">
+				<image size="1090957824">http://duk01.ps5.update.playstation.net/update/ps5/official/tJMRE80IbXnE9YuG0jzTXgKEjIMoabr6/image/2022_1223/sys_ed547dcc63ba5667de3f301989ed611546e47ee564dbcad6accdde984a4b2e36/PS5UPDATE.PUP?dest=uk</image>
+			</update_data>
+		</system_pup>
+		<finished_test_list>
+			<finished_test auto_update_version="00.00" sdk_version="6.00.00.00-00.00.00.1.1" upd_version="6.00.00.00"/>
+			<finished_test auto_update_version="00.00" sdk_version="6.30.00.00-00.00.00.2.1" upd_version="6.30.00.00"/>
+		</finished_test_list>
+	</region>
+</update_data_list>

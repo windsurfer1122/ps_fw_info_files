@@ -1,0 +1,4 @@
+# US
+Dest=84;CompatibleSystemSoftwareVersion=4.8400-;
+Dest=84;IncrementalUpdateVersion=00010871-00010871;ImageVersion=000108dd;SystemSoftwareVersion=4.8400;CDN=http://dus01.ps3.update.playstation.net/update/ps3/image/us/2019_0214_da485a99e39105b2ccffa5af59f82221/PS3PATCH.PUP;CDN_Timeout=30;
+Dest=84;ImageVersion=000108dd;SystemSoftwareVersion=4.8400;CDN=http://dus01.ps3.update.playstation.net/update/ps3/image/us/2019_0214_da485a99e39105b2ccffa5af59f82221/PS3UPDAT.PUP;CDN_Timeout=30;

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<update_data_list>
+	<region id="br">
+		<force_update>
+			<system level0_system_ex_version="0" level0_system_version="09.030.000" level1_system_ex_version="0" level1_system_version="09.030.000">
+				<product_requirement id="CUSA16496" level1_system_version="09.040.000" level2_system_version="09.040.000"/>
+				<product_requirement id="CUSA16579" level1_system_version="09.040.000" level2_system_version="09.040.000"/>
+				<product_requirement id="CUSA18278" level1_system_version="09.040.000" level2_system_version="09.040.000"/>
+				<product_requirement id="CUSA16596" level1_system_version="09.040.000" level2_system_version="09.040.000"/>
+				<product_requirement id="CUSA16570" level1_system_version="09.040.000" level2_system_version="09.040.000"/>
+			</system>
+		</force_update>
+		<system_pup ex_version="0" label="9.04" sdk_version="09.040.001" version="09.040.000">
+			<update_data update_type="full">
+				<image size="490170880">http://dbr01.ps4.update.playstation.net/update/ps4/image/2022_0217/sys_a3946f9d0822ff60a1ae3c68ab754eab/PS4UPDATE.PUP?dest=br</image>
+			</update_data>
+		</system_pup>
+		<recovery_pup type="default">
+			<system_pup ex_version="0" label="9.04" sdk_version="09.040.001" version="09.040.000"/>
+			<image size="1070187520">http://dbr01.ps4.update.playstation.net/update/ps4/image/2022_0217/rec_9af7bed8d37dbe16c42651ba6984d12c/PS4UPDATE.PUP?dest=br</image>
+		</recovery_pup>
+	</region>
+</update_data_list>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<update_data_list>
+	<region id="us">
+		<force_update>
+			<system auto_update_version="00.00" sdk_version="01.00.00.09-00.00.00.0.0" upd_version="01.00.00.00"/>
+		</force_update>
+		<system_pup auto_update_version="00.00" label="20.02.02.20.00.07-00.00.00.0.0" sdk_version="02.20.00.07-00.00.00.0.0" upd_version="02.20.00.00">
+			<update_data update_type="full">
+				<image size="867908608">http://dus01.ps5.update.playstation.net/update/ps5/official/tJMRE80IbXnE9YuG0jzTXgKEjIMoabr6/image/2020_1106/sys_bd1299594bb6cf31895f4873e21875b17622f4ac7f27601da1a33a1c4078c8ae/PS5UPDATE.PUP?dest=us</image>
+			</update_data>
+		</system_pup>
+	</region>
+</update_data_list>

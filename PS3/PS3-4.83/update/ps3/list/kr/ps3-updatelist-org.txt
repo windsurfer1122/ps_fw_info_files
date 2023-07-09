@@ -1,0 +1,4 @@
+# KR
+Dest=86;CompatibleSystemSoftwareVersion=4.8300-;
+Dest=86;IncrementalUpdateVersion=000105f2-000105f2;ImageVersion=00010871;SystemSoftwareVersion=4.8300;CDN=http://dkr01.ps3.update.playstation.net/update/ps3/image/kr/2018_1011_69b4529fd584523cf37e6d29107b9a8b/PS3PATCH.PUP;CDN_Timeout=30;
+Dest=86;ImageVersion=00010871;SystemSoftwareVersion=4.8300;CDN=http://dkr01.ps3.update.playstation.net/update/ps3/image/kr/2018_1011_69b4529fd584523cf37e6d29107b9a8b/PS3UPDAT.PUP;CDN_Timeout=30;

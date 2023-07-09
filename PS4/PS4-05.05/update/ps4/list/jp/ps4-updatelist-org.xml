@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<update_data_list>
+	<region id="jp">
+		<force_update>
+			<system level0_system_ex_version="0" level0_system_version="05.050.000" level1_system_ex_version="0" level1_system_version="05.050.000"/>
+		</force_update>
+		<system_pup ex_version="0" label="5.05" sdk_version="05.050.001" version="05.050.000">
+			<update_data update_type="full">
+				<image size="374675456">http://djp01.ps4.update.playstation.net/update/ps4/image/2018_0115/sys_f86d4f9d2c049547bd61f942151ffb55/PS4UPDATE.PUP?dest=jp</image>
+			</update_data>
+		</system_pup>
+		<recovery_pup type="default">
+			<system_pup ex_version="0" label="5.05" sdk_version="05.050.001" version="05.050.000"/>
+			<image size="954630656">http://djp01.ps4.update.playstation.net/update/ps4/image/2018_0115/rec_c2a602174f6b1d8ef599640cd276924a/PS4UPDATE.PUP?dest=jp</image>
+		</recovery_pup>
+	</region>
+</update_data_list>

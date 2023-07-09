@@ -1,0 +1,35 @@
+# JP(shop)
+Dest=83;CompatibleSystemSoftwareVersion=4.8600-;
+Dest=83;ImageVersion=0001093c;SystemSoftwareVersion=4.8600;CDN=http://djp01.ps3.update.playstation.net/update/ps3/image/shop/2020_0331_40df1ad4773d9bcd6501328c7a6692fa/PS3UPDAT.PUP;CDN_Timeout=30;
+# US(shop)
+Dest=84;CompatibleSystemSoftwareVersion=4.8600-;
+Dest=84;ImageVersion=0001093c;SystemSoftwareVersion=4.8600;CDN=http://dus01.ps3.update.playstation.net/update/ps3/image/shop/2020_0331_40df1ad4773d9bcd6501328c7a6692fa/PS3UPDAT.PUP;CDN_Timeout=30;
+# EU(shop)
+Dest=85;CompatibleSystemSoftwareVersion=4.8600-;
+Dest=85;ImageVersion=0001093c;SystemSoftwareVersion=4.8600;CDN=http://deu01.ps3.update.playstation.net/update/ps3/image/shop/2020_0331_40df1ad4773d9bcd6501328c7a6692fa/PS3UPDAT.PUP;CDN_Timeout=30;
+# KR(shop)
+Dest=86;CompatibleSystemSoftwareVersion=4.8600-;
+Dest=86;ImageVersion=0001093c;SystemSoftwareVersion=4.8600;CDN=http://dkr01.ps3.update.playstation.net/update/ps3/image/shop/2020_0331_40df1ad4773d9bcd6501328c7a6692fa/PS3UPDAT.PUP;CDN_Timeout=30;
+# UK(shop)
+Dest=87;CompatibleSystemSoftwareVersion=4.8600-;
+Dest=87;ImageVersion=0001093c;SystemSoftwareVersion=4.8600;CDN=http://duk01.ps3.update.playstation.net/update/ps3/image/shop/2020_0331_40df1ad4773d9bcd6501328c7a6692fa/PS3UPDAT.PUP;CDN_Timeout=30;
+# MX(shop)
+Dest=88;CompatibleSystemSoftwareVersion=4.8600-;
+Dest=88;ImageVersion=0001093c;SystemSoftwareVersion=4.8600;CDN=http://dmx01.ps3.update.playstation.net/update/ps3/image/shop/2020_0331_40df1ad4773d9bcd6501328c7a6692fa/PS3UPDAT.PUP;CDN_Timeout=30;
+# AU/NZ(shop)
+Dest=89;CompatibleSystemSoftwareVersion=4.8600-;
+Dest=89;ImageVersion=0001093c;SystemSoftwareVersion=4.8600;CDN=http://dau01.ps3.update.playstation.net/update/ps3/image/shop/2020_0331_40df1ad4773d9bcd6501328c7a6692fa/PS3UPDAT.PUP;CDN_Timeout=30;
+# SouthAsia(shop)
+Dest=8A;CompatibleSystemSoftwareVersion=4.8600-;
+Dest=8A;ImageVersion=0001093c;SystemSoftwareVersion=4.8600;CDN=http://dsa01.ps3.update.playstation.net/update/ps3/image/shop/2020_0331_40df1ad4773d9bcd6501328c7a6692fa/PS3UPDAT.PUP;CDN_Timeout=30;
+# TW(shop)
+Dest=8B;CompatibleSystemSoftwareVersion=4.8600-;
+Dest=8B;ImageVersion=0001093c;SystemSoftwareVersion=4.8600;CDN=http://dtw01.ps3.update.playstation.net/update/ps3/image/shop/2020_0331_40df1ad4773d9bcd6501328c7a6692fa/PS3UPDAT.PUP;CDN_Timeout=30;
+# RU(shop)
+Dest=8C;CompatibleSystemSoftwareVersion=4.8600-;
+Dest=8C;ImageVersion=0001093c;SystemSoftwareVersion=4.8600;CDN=http://dru01.ps3.update.playstation.net/update/ps3/image/shop/2020_0331_40df1ad4773d9bcd6501328c7a6692fa/PS3UPDAT.PUP;CDN_Timeout=30;
+# CN(shop)
+Dest=8D;ImageVersion=00000000;SystemSoftwareVersion=0.0000;CDN=http://dcn01.ps3.update.playstation.net/update/ps3/image/shop/nodata;CDN_Timeout=30;
+# BR(shop)
+Dest=8F;CompatibleSystemSoftwareVersion=4.8600-;
+Dest=8F;ImageVersion=0001093c;SystemSoftwareVersion=4.8600;CDN=http://dbr01.ps3.update.playstation.net/update/ps3/image/shop/2020_0331_40df1ad4773d9bcd6501328c7a6692fa/PS3UPDAT.PUP;CDN_Timeout=30;

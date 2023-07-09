@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<update_data_list>
+<region id="kr">
+<np level0_system_version="01.600.000" level1_system_version="03.740.000" level2_system_version="03.740.000" map="03.740.000" />
+<np_d level0_system_version="01.600.000" level1_system_version="03.740.000" level2_system_version="03.740.000" map="03.740.000" />
+<version system_version="03.740.000" label="3.74">
+<update_data update_type="full">
+<image size="133834240">http://dkr01.psp2.update.playstation.net/update/psp2/image/2022_0209/rel_f2c7b12fe85496ec88a0391b514d6e3b/PSP2UPDAT.PUP?dest=kr</image>
+</update_data>
+</version>
+<recovery spkg_type="systemdata">
+<image spkg_version="01.000.010" size="56778752">http://dkr01.psp2.update.playstation.net/update/psp2/image/2022_0209/sd_59dcf059d3328fb67be7e51f8aa33418/PSP2UPDAT.PUP?dest=kr</image>
+</recovery>
+<recovery spkg_type="preinst">
+<image spkg_version="01.000.000" size="128798720">http://dkr01.psp2.update.playstation.net/update/psp2/image/2022_0209/pre_efd1ef6c1cc2fe92e72e9e783e421237/PSP2UPDAT.PUP?dest=kr</image>
+</recovery>
+</region>
+</update_data_list>
